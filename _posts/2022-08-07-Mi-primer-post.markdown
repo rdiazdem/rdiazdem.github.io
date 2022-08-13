@@ -1,6 +1,6 @@
 ---
 title:  "Mi primer post"
-date:   2022-08-07 22:34:00
+date:   2022-08-12 20:52:00
 categories: [jekyll]
 tags: [jekyll]
 ---
@@ -29,3 +29,7 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 - Elemento 1
 - Elemento 2
 - Elemento 3
+
+Este es un parrafo 1
+
+Este es el parrafo 2

@@ -1,19 +1,19 @@
 # Site settings
 title: rdiazdem
-description: 'Ejemplo de GitHub Pages'
+description: 'Ejemplo GitHub Pages'
 url: 'http://joshgerdes.com/jekyll-uno'
-#baseurl: '/jekyll-uno'
+baseurl: '/jekyll-uno'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 # disable_landing_page: true
 
 author:
-  name: 'rdiazdem'
+  name: 'rddiazdem'
   email: rdiazdem@gmail.com
 #  twitter_username: joshgerdes
 #  facebook_username: joshgerdes
   github_username:  rdiazdem
-#  linkedin_username:  joshgerdes
+  linkedin_username:  rdiazdem
 
 defaults:
   -
